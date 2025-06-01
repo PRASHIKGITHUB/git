@@ -7,5 +7,9 @@ int main(){
     int x=10;
     int y=16;
     cout<<x+y<<endl;
+    int arr[]={1,2,3};
+    for(auto ele:arr){
+        cout<<ele<<endl;
+    }
     return 0;
 }
