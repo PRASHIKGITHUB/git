@@ -11,6 +11,6 @@ int main(){
     for(auto ele:arr){
         cout<<ele<<endl;
     }
-    cout<<"array is printed"<<endl;
+    
     return 0;
 }
