@@ -12,4 +12,4 @@ int main(){
     return 0;
 }
 
-bug is added
+
