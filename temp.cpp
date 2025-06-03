@@ -15,5 +15,3 @@ int main(){
     printsome();
     return 0;
 }
-
-bug is added;
