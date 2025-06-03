@@ -9,6 +9,10 @@ void printMyName(){
     cout<<"print function is called"<<endl;
     return;
 }
+void printYourName(){
+    cout<<"print function is called"<<endl;
+    return;
+}
 int main(){
     ios_base::sync_with_stdio(0);
     cin.tie(0);
@@ -18,5 +22,6 @@ int main(){
     cout<<x+y<<endl;
     printsome();
     printMyName();
+    printYourName();
     return 0;
 }
