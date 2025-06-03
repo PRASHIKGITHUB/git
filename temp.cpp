@@ -1,5 +1,10 @@
 #include<bits/stdc++.h>
 using namespace std;
+
+void printsome(){
+    cout<<"print function is called"<<endl;
+    return;
+}
 int main(){
     ios_base::sync_with_stdio(0);
     cin.tie(0);
@@ -7,9 +12,8 @@ int main(){
     int x=10;
     int y=16;
     cout<<x+y<<endl;
-
-
+    printsome();
     return 0;
 }
 
-bug is added
+bug is added;
